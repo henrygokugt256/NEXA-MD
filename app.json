@@ -1,9 +1,9 @@
 {
-  "name": "PRINCE-BOT",
-  "description": "Prince MD A WhatsApp User BOT",
-  "logo": "https://telegra.ph/file/d9bcfd1ae673ebd58bd3e.jpg",
+  "name": "NEXA-MD",
+  "description": "NEXA MD A WhatsApp User BOT",
+  "logo": "https://i.ibb.co/hVFKKb1/2024041510172390.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/henrygokugt99/NEXA-MD",
   
   "stack": "container",
   "env": {
